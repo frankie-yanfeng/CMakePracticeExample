@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.10)
+
+ADD_EXECUTABLE(curltest main.c)
+
+#INCLUDE_DIRECTORIES(/usr/include)
+#TARGET_LINK_LIBRARIES(curltest curl)
+
+FIND_PACKAGE(CURL)
+IF(CURL_FOUND)
+    INCLUDE_DIRECTORIES(${CURL_INCLUDE_DIR})
+    TARGET_LINK_LIBRARIES(curltest ${CURL_LIBRARY})
+
+    MESSAGE(STATUS "CURL library found")
+ELSE(CURL_FOUND)
+    MESSAGE(FATAL_ERROR "CURL library not found")
+ENDIF(CURL_FOUND)

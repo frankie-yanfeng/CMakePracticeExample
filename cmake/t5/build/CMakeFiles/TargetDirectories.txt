@@ -1,0 +1,5 @@
+/home/aiq/Dropbox/C++/cmake/t5/build/CMakeFiles/rebuild_cache.dir
+/home/aiq/Dropbox/C++/cmake/t5/build/CMakeFiles/edit_cache.dir
+/home/aiq/Dropbox/C++/cmake/t5/build/bin/CMakeFiles/rebuild_cache.dir
+/home/aiq/Dropbox/C++/cmake/t5/build/bin/CMakeFiles/main.dir
+/home/aiq/Dropbox/C++/cmake/t5/build/bin/CMakeFiles/edit_cache.dir

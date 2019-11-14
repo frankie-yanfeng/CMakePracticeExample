@@ -1,0 +1,14 @@
+/home/aiq/Dropbox/C++/cmake/t4/build/CMakeFiles/rebuild_cache.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/CMakeFiles/install/strip.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/CMakeFiles/install/local.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/CMakeFiles/edit_cache.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/CMakeFiles/list_install_components.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/CMakeFiles/install.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/install/strip.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/install/local.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/hello_static.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/hello.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/edit_cache.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/rebuild_cache.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/install.dir
+/home/aiq/Dropbox/C++/cmake/t4/build/lib/CMakeFiles/list_install_components.dir
